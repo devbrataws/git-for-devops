@@ -9,7 +9,7 @@ git add .\git_commands.txt
 git commit -m "git command added"
 git remote add origin https://github.com/devbrataws/git-for-devops.git
 git remote -v
-git remote set-url origin https:/git-for-devops.git
+git remote set-url origin
 git remote -v
 git push origin master
 git status
