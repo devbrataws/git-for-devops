@@ -7,7 +7,7 @@ git commit -m "added testing.py"
 git status
 git add .\git_commands.txt
 git commit -m "git command added"
-git remote add origin https://github.com/devbrataws/git-for-devops.git
+git remote add origin
 git remote -v
 git remote set-url origin
 git remote -v
