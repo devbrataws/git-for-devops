@@ -12,6 +12,11 @@ git remote -v
 git remote set-url origin https://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@github.com/devbrataws/git-for-devops.git
 git remote -v
 git push origin master
-git status
-
-this is dev singh rajput
+---------------------------------------------------------------------------------------------------
+git branch
+git branch [branch_name] for eg :- git branch dev 
+git checkout -b [branch_name] for eg :- git checkout -b dev  (to create new branch using -b)
+git checkout [branch_name] for eg :-git checkout dev (to switch to another branch)
+git switch [branch_name] for eg :- git switch dev (to switch to another branch) 
+git log (to view the history of commits in a Git repository and well as to check the HEAD of a specific branch)
+git log --oneline
