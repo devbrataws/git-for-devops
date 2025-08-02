@@ -23,4 +23,3 @@ git log --oneline
 git push origin master
 git pull origin master
 git merge
-
