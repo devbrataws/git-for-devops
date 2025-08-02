@@ -22,5 +22,4 @@ git log (to view the history of commits in a Git repository and well as to check
 git log --oneline
 git push origin master
 git pull origin master
-
 git merge
