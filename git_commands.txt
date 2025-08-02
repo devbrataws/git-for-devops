@@ -21,4 +21,6 @@ git switch [branch_name] for eg :- git switch dev (to switch to another branch)
 git log (to view the history of commits in a Git repository and well as to check the HEAD of a specific branch)
 git log --oneline
 git push origin master
+git pull origin master
+
 git merge
